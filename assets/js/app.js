@@ -261,12 +261,7 @@ $(function () {
     });
 
     // Select picket activation
-    $('select').selectBox(
-        {
-            mobile: true,
-        }
-    );
-
+    
 
     // Dropdown activation
     $('.dropdown-menu a.dropdown-toggle').on('click', function(e) {
@@ -659,8 +654,8 @@ $(function () {
             '    <div class="color-plate purple-plate" data-color="purple"></div>\n' +
             '    <div class="color-plate blue-light-plate" data-color="blue-light"></div>\n' +
             '    <div class="color-plate brown-plate" data-color="brown"></div>\n' +
-            '    <div class="setting-button">\n' +
-            '        <i class="fa fa-gear"></i>\n' +
+            // '    <div class="setting-button">\n' +
+            // '        <i class="fa fa-gear"></i>\n' +
             '    </div>\n' +
             '</div>';
         $('body').append(plateStings);
