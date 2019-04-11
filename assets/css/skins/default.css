@@ -1,4 +1,4 @@
-.btn-theme{
+.btn-theme {
     color: #FFF;
     background: #274cbf;
     border: solid 1px #274cbf;
@@ -7,47 +7,50 @@
     font-size: 12px;
 }
 
-.btn-theme:hover{
+.btn-theme:hover {
     color: #FFF;
     background: #2646a7;
     border: solid 1px #2646a7;
 }
 
-.modal-right-content .bullets li i{
-   color: #274cbf;
-}
-
-.top-header-bg {
-    background: #274cbf;
-}
-
-.form-inline a:hover{
+.modal-right-content .bullets li i {
     color: #274cbf;
 }
 
-.show-more-options, .show-more-options:hover {
+.top-header-bg {
+    background: #f2f2f2;
+}
+
+.form-inline a:hover {
+    color: #274cbf;
+}
+
+.show-more-options,
+.show-more-options:hover {
     color: #274cbf!important;
 }
 
-.overview .btn-border:hover{
+.overview .btn-border:hover {
     border: solid 2px #2646a7;
     background: #2646a7;
 }
 
-.categories ul li a:hover{
+.categories ul li a:hover {
     color: #274cbf;
 }
 
-.checkbox-theme input[type="checkbox"]:checked + label::before {
+.checkbox-theme input[type="checkbox"]:checked+label::before {
     background-color: #274cbf;
     border-color: #274cbf;
 }
 
-.tabbing-box .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+.tabbing-box .nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
     background-color: #274cbf;
 }
 
-.tabbing-box .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link:hover {
+.tabbing-box .nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link:hover {
     background-color: #274cbf;
 }
 
@@ -59,64 +62,67 @@
     background: #274cbf;
 }
 
-.overview .btn-border{
+.overview .btn-border {
     color: #274cbf;
     border: solid 2px #274cbf;
 }
 
-.overview .btn-border:hover{
+.overview .btn-border:hover {
     border: solid 2px #2646a7;
     background: #2646a7;
 }
 
-.banner-bg-color{
+.banner-bg-color {
     background: #2646a7;
 }
 
-.btn-white-sm-outline:hover{
+.btn-white-sm-outline:hover {
     background: #2646a7;
     border: solid 1px #2646a7;
 }
 
-
-.btn-white-lg-outline:hover{
+.btn-white-lg-outline:hover {
     background: #2646a7;
     border: solid 2px #2646a7;
 }
 
-.btn-color{
+.btn-color {
     background: #3ac4fa;
     border-color: #3ac4fa;
 }
 
-.btn-color:hover{
+.btn-color:hover {
     background: #2646a7;
     border-color: #2646a7;
 }
 
-.btn-color:not([disabled]):not(.disabled).active, .btn-color:not([disabled]):not(.disabled):active, .show > .btn-color.dropdown-toggle {
+.btn-color:not([disabled]):not(.disabled).active,
+.btn-color:not([disabled]):not(.disabled):active,
+.show>.btn-color.dropdown-toggle {
     color: #fff;
     background-color: #2646a7;
     border-color: #2646a7;
     box-shadow: none;
 }
 
-.btn-theme-sm-outline{
+.btn-theme-sm-outline {
     color: #2646a7 !important;
     border: solid 2px #2646a7;
 }
 
-.btn-theme-sm-outline:hover{
+.btn-theme-sm-outline:hover {
     background: #2646a7;
     border: solid 2px #2646a7;
 }
 
-.btn-border{
+.btn-border {
     color: #274cbf;
     border: solid 1px #274cbf;
 }
 
-.btn-border:not([disabled]):not(.disabled).active, .btn-border:not([disabled]):not(.disabled):active, .show > .btn-border.dropdown-toggle {
+.btn-border:not([disabled]):not(.disabled).active,
+.btn-border:not([disabled]):not(.disabled):active,
+.show>.btn-border.dropdown-toggle {
     color: #fff;
     background-color: #274cbf;
     border-color: #274cbf;
@@ -127,13 +133,15 @@
     color: #274cbf;
 }
 
-.btn-border:hover{
+.btn-border:hover {
     color: #fff;
     border: solid 1px #2646a7;
     background: #2646a7;
 }
 
-.coming-soon-inner .btn, .coming-soon-inner .btn:hover, .coming-soon-inner .btn:active {
+.coming-soon-inner .btn,
+.coming-soon-inner .btn:hover,
+.coming-soon-inner .btn:active {
     background: #274cbf;
 }
 
@@ -141,12 +149,12 @@
     color: #274cbf;
 }
 
-.main-header .navbar-expand-lg .navbar-nav .active .nav-link{
+.main-header .navbar-expand-lg .navbar-nav .active .nav-link {
     color: #274cbf !important;
     border-bottom: solid 2px #274cbf;
 }
 
-.main-header .navbar-expand-lg .navbar-nav .nav-link:hover{
+.main-header .navbar-expand-lg .navbar-nav .nav-link:hover {
     border-bottom: solid 2px #274cbf;
     color: #274cbf !important;
 }
@@ -195,20 +203,20 @@
     background: #274cbf;
 }
 
-.overlay-link:hover{
+.overlay-link:hover {
     background: #274cbf;
     border: 2px solid #274cbf;
 }
 
-.property-box .detail .title a{
+.property-box .detail .title a {
     color: #274cbf;
 }
 
-.property-box-2 .detail h4{
+.property-box-2 .detail h4 {
     color: #274cbf;
 }
 
-.property-box-3 h5{
+.property-box-3 h5 {
     color: #274cbf;
 }
 
@@ -216,11 +224,11 @@
     color: #274cbf;
 }
 
-.services-info i{
+.services-info i {
     color: #274cbf;
 }
 
-.services-info-3 i{
+.services-info-3 i {
     color: #274cbf;
 }
 
@@ -248,7 +256,7 @@
     color: #274cbf;
 }
 
-.property-box-6 ul li i{
+.property-box-6 ul li i {
     color: #274cbf;
 }
 
@@ -256,7 +264,7 @@
     background: #274cbf;
 }
 
-.property-box-6 h3{
+.property-box-6 h3 {
     color: #274cbf;
 }
 
@@ -264,7 +272,7 @@
     color: #274cbf;
 }
 
-.modal-left-content .control{
+.modal-left-content .control {
     background: #274cbf;
 }
 
@@ -284,7 +292,7 @@
     background: #274cbf;
 }
 
-.pricing-3 .featured{
+.pricing-3 .featured {
     color: #274cbf;
 }
 
@@ -296,40 +304,40 @@
     background: #274cbf;
 }
 
-.pagination > li > .active {
+.pagination>li>.active {
     background: #274cbf;
 }
 
-.pagination > li > a:hover{
+.pagination>li>a:hover {
     background: #274cbf;
 }
 
-.tags ul li a:hover{
+.tags ul li a:hover {
     border: solid 1px #274cbf;
     background: #274cbf;
 }
 
-.latest-tweet p a{
+.latest-tweet p a {
     color: #274cbf;
 }
 
-.shop-box .shop-details h4{
+.shop-box .shop-details h4 {
     color: #274cbf;
 }
 
-.form-check a{
+.form-check a {
     color: #274cbf;
 }
 
-.form-check a:hover{
+.form-check a:hover {
     color: #2646a7;
 }
 
-.login-footer p a{
+.login-footer p a {
     color: #274cbf;
 }
 
-.login-footer p a:hover{
+.login-footer p a:hover {
     color: #2646a7;
 }
 
@@ -345,11 +353,11 @@
     color: #274cbf;
 }
 
-.helping-center i{
+.helping-center i {
     color: #274cbf;
 }
 
-.coming-soon-inner h1 span{
+.coming-soon-inner h1 span {
     color: #274cbf;
 }
 
@@ -361,11 +369,11 @@ li.active.btn.filtr-button.filtr {
     color: #274cbf;
 }
 
-.view-all ul li a:hover{
+.view-all ul li a:hover {
     background: #274cbf;
 }
 
-.brand-box-2 h5 a{
+.brand-box-2 h5 a {
     color: #274cbf;
 }
 
@@ -393,11 +401,11 @@ li.active.btn.filtr-button.filtr {
     background-color: #274cbf;
 }
 
-
 .map-marker:hover {
     background-color: #274cbf;
     cursor: pointer;
 }
+
 .map-marker:hover:before {
     border-color: #274cbf transparent transparent transparent;
 }
@@ -405,6 +413,7 @@ li.active.btn.filtr-button.filtr {
 .map-marker.featured:hover {
     background-color: #274cbf;
 }
+
 .map-marker.featured:hover:before {
     border-color: #274cbf transparent transparent transparent;
 }
@@ -416,22 +425,24 @@ li.active.btn.filtr-button.filtr {
 .marker-active .map-marker {
     background-color: #274cbf;
 }
+
 .marker-active .map-marker:before {
     border-color: #274cbf transparent transparent transparent;
 }
 
-.map-properties .address i{
+.map-properties .address i {
     color: #274cbf;
 }
 
-.map-properties-btns .border-button-theme{
+.map-properties-btns .border-button-theme {
     color: #274cbf !important;
 }
 
-.map-properties-btns .border-button-theme:hover{
+.map-properties-btns .border-button-theme:hover {
     color: #fff !important;
 }
-.map-properties .map-content h4 a{
+
+.map-properties .map-content h4 a {
     color: #274cbf;
 }
 
@@ -447,47 +458,39 @@ li.active.btn.filtr-button.filtr {
     color: #274cbf;
 }
 
+
 /** MEDIA **/
+
 @media (max-width: 992px) {
-    .main-header .navbar-expand-lg .navbar-nav .active .nav-link{
+    .main-header .navbar-expand-lg .navbar-nav .active .nav-link {
         color: #274cbf !important;
     }
-
     .main-header .navbar-expand-lg .navbar-nav .nav-link:hover {
         color: #274cbf !important;
     }
-
     .navbar-light .navbar-toggler {
         color: #274cbf;
     }
 }
-
 
 @media (min-width: 991px) {
     .sticky-header .navbar-expand-lg .navbar-nav .active .nav-link {
         color: #fff !important;
         border-bottom: solid 2px transparent;
     }
-
     .sticky-header .navbar-expand-lg .navbar-nav .nav-link:hover {
         color: #fff !important;
         border-bottom: solid 2px transparent;
         opacity: .8;
     }
-
     .header-shrink .navbar-expand-lg .navbar-nav .active .nav-link {
         color: #515151 !important;
     }
-
     .header-shrink .navbar-expand-lg .navbar-nav .nav-link:hover {
         color: #515151 !important;
     }
-
     .header-shrink .btn-white-sm-outline {
         color: #274cbf;
         border: solid 2px #274cbf;
     }
 }
-
-
-
