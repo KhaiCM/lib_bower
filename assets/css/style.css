@@ -92,7 +92,6 @@ Version:    1.1.0
         height: 30px;
         width: 30px;
         left: 50%;
-
     }
 
     .category-right {
@@ -816,11 +815,12 @@ Version:    1.1.0
         padding: 7px 20px;
         text-align: center;
     }
+
     .color-item {
         color: #0067f1 !important;
     }
 
-    .noti-title >h5 {
+    .noti-title>h5 {
         border-radius: 0;
         background-color: #3492ea;
         margin: 0;
@@ -7720,10 +7720,32 @@ body.off-canvas-sidebar-open {
     padding-top: 0px!important;
 }
 
-.margin-top  {
+.margin-top {
     margin-top: inherit;
 }
 
-..margin-proty {
+.margin-proty {
     margin-top: inherit;
+}
+
+.border-login {
+    top: 50%;
+    transform: translateY(-50%);
+    position: absolute;
+    right: 0;
+    left: 0;
+}
+
+.content-form-box {
+    height: auto;
+    width: 400px!important;
+}
+
+.login-header {
+    position: relative;
+}
+
+.content-regis {
+    heigh:auto;
+    width:500px
 }
